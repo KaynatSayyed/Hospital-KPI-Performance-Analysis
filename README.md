@@ -27,3 +27,6 @@ Built Power BI dashboard for ongoing KPI monitoring
 
 **Tools**
 SQL | Excel | Power BI
+
+**Power BI Dashboard Preview**
+![Kaynat _HEALTHCARE_PowerBIfinal_page-0001](https://github.com/user-attachments/assets/f0602356-b9b6-44f5-b5d6-7e10be59448a)
